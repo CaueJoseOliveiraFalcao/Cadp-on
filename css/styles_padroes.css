@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+.Titulo-Master{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 4rem;
+}
+#introduçao{
+    margin-top: 4rem;
+}
+.div-texto{
+    border-style: solid;
+    margin: 0px 6.5%;
+    padding: 0 1rem;
+    background-color: rgb(248, 248, 248);
+}
+
+.div-texto-img{
+    width: 60%;
+    display: flex;
+}
+.div-texto-img img{
+    width: 100%;
+}
+.div-texto-txt{
+    width: 70%;
+    font-size: 1.3rem;
+    padding-top: 2.5rem;
+}
+.div-texto-aspa{
+    font-size: 1.8rem;
+    width: 50%;
+    color: rgb(71, 71, 71);
+}
