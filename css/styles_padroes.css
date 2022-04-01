@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
 
 .Titulo-Master{
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Dancing Script', cursive;
     font-size: 4rem;
 }
 #introduçao{
@@ -26,13 +30,18 @@
 }
 .div-texto-txt{
     width: 70%;
+    font-family: 'Nanum Gothic', sans-serif;
     font-size: 1.3rem;
     padding-top: 2.5rem;
 }
 .div-texto-aspa{
     font-size: 1.8rem;
+    font-family: 'Dosis', sans-serif;
     width: 50%;
     color: rgb(71, 71, 71);
+}
+h3{
+    font-family: 'Titillium Web', sans-serif;
 }
 
 @media (max-width:768px) {
