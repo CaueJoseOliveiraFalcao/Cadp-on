@@ -33,6 +33,9 @@
 }
 
 @media (max-width:768px) {
+    .Titulo-Master{
+        font-size: 2.5rem;
+    }
     .div-texto{
         margin: 0px 1.5%;
     }
